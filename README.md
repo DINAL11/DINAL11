@@ -115,10 +115,27 @@
 
 ## 📈 My GitHub Vibes 🔥
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinal11&layout=compact&theme=gruvbox&hide_border=true&bg_color=282828&title_color=FB4934&text_color=FABD2F&icon_color=8EC07C" alt="Top Languages" width="340"/>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dinal11&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFD700&icon_color=00FF00" alt="Dinal's GitHub Stats" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinal11&theme=neon&hide_border=true&background=0D1117&stroke=FF4500&ring=FF69B4&fire=FFD700&currStreakNum=00FF00&sideNums=00CED1&currStreakLabel=FF69B4&sideLabels=FFD700&dates=FF4500" alt="Dinal's Streak Stats" width="420"/>
 </p>
 
+### 💻 Most Used Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/1._Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/2._Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/3._Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala">
+  <img src="https://img.shields.io/badge/4._Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/5._C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/6._C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/7._JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/8._HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/9._CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/10._PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="200"/>
+</p>
 ---
 
 ## 🎓 My Certificates 
