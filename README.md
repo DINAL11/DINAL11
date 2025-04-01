@@ -137,7 +137,7 @@
 
 ## 🌐 Let’s Connect!
 - 📧 **Email:** [dinalben@buffalo.edu](mailto:dinalben@buffalo.edu)  
-- 💼 **LinkedIn:** [Dinal Dholiya](https://www.linkedin.com/in/dinal)  
+- 💼 **LinkedIn:** [Dinal Dholiya]([https://www.linkedin.com/in/dinal](https://www.linkedin.com/in/dinal-dholiya/))  
 - 🌍 **Portfolio:** [acsu.buffalo.edu/~dinalben/](https://www.acsu.buffalo.edu/~dinalben/)  
 - 🐙 **GitHub:** You're already here—check out my repos below!  
 
