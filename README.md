@@ -114,10 +114,37 @@
 ---
 
 ## 📈 My GitHub Vibes 🔥
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Java-%23E76F00?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Scala-%23DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala"> <img src="https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"> <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> 
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="200"/>
+<p align="center">
+  <b style="color:#FB4934; font-size:22px;">Most Used Languages</b>
 </p>
+
+<p align="center">
+  <span style="color:#FB4934; font-size:16px;">● Python 35.4%</span>  
+  <progress value="35.4" max="100" style="width:50%; height:10px;"></progress>
+</p>
+
+<p align="center">
+  <span style="color:#FABD2F; font-size:16px;">● Java 25.2%</span>  
+  <progress value="25.2" max="100" style="width:50%; height:10px;"></progress>
+</p>
+
+<p align="center">
+  <span style="color:#8EC07C; font-size:16px;">● Scala 15.8%</span>  
+  <progress value="15.8" max="100" style="width:50%; height:10px;"></progress>
+</p>
+
+<p align="center">
+  <span style="color:#83A598; font-size:16px;">● Go 12.1%</span>  
+  <progress value="12.1" max="100" style="width:50%; height:10px;"></progress>
+</p>
+
+<p align="center">
+  <span style="color:#D3869B; font-size:16px;">● C++ 8.5%</span>  
+  <progress value="8.5" max="100" style="width:50%; height:10px;"></progress>
+</p>
+
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="200"/>
+
 ---
 
 ## 🎓 My Certificates 
