@@ -115,35 +115,14 @@
 
 ## 📈 My GitHub Vibes 🔥
 <p align="center">
-  <b style="color:#FB4934; font-size:22px;">Most Used Languages</b>
-</p>
-
-<p align="center">
-  <span style="color:#FB4934; font-size:16px;">● Python 35.4%</span>  
-  <progress value="35.4" max="100" style="width:50%; height:10px;"></progress>
-</p>
-
-<p align="center">
-  <span style="color:#FABD2F; font-size:16px;">● Java 25.2%</span>  
-  <progress value="25.2" max="100" style="width:50%; height:10px;"></progress>
-</p>
-
-<p align="center">
-  <span style="color:#8EC07C; font-size:16px;">● Scala 15.8%</span>  
-  <progress value="15.8" max="100" style="width:50%; height:10px;"></progress>
-</p>
-
-<p align="center">
-  <span style="color:#83A598; font-size:16px;">● Go 12.1%</span>  
-  <progress value="12.1" max="100" style="width:50%; height:10px;"></progress>
-</p>
-
-<p align="center">
-  <span style="color:#D3869B; font-size:16px;">● C++ 8.5%</span>  
-  <progress value="8.5" max="100" style="width:50%; height:10px;"></progress>
-</p>
-
+  <img src="https://img.shields.io/badge/Python-35.4%25-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Java-25.2%25-red?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Scala-15.8%25-orange?style=for-the-badge&logo=scala" />
+  <img src="https://img.shields.io/badge/Go-12.1%25-cyan?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/C++-8.5%25-purple?style=for-the-badge&logo=c%2b%2b" />
+  
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="200"/>
+</p>
 
 ---
 
