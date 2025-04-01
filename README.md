@@ -115,8 +115,8 @@
 
 ## 📈 My GitHub Vibes 🔥
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinal11&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFD700&icon_color=00FF00" alt="Dinal's GitHub Stats" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinal11&theme=neon&hide_border=true&background=0D1117&stroke=FF4500&ring=FF69B4&fire=FFD700&currStreakNum=00FF00&sideNums=00CED1&currStreakLabel=FF69B4&sideLabels=FFD700&dates=FF4500" alt="Dinal's Streak Stats" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinal11&layout=compact&theme=gruvbox&hide_border=true&bg_color=282828&title_color=FB4934&text_color=FABD2F&icon_color=8EC07C" alt="Top Languages" width="340"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="200"/>
 </p>
 
 <p align="center">
