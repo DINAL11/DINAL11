@@ -119,11 +119,6 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="200"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinal11&layout=compact&theme=gruvbox&hide_border=true&bg_color=282828&title_color=FB4934&text_color=FABD2F&icon_color=8EC07C" alt="Top Languages" width="340"/>
-  <img src="https://media.giphy.com/media/3o7TKsQ8kPrdYGy2as/giphy.gif" alt="Coding GIF" width="200"/>
-</p>
-
 ---
 
 ## 🎓 My Certificates 
