@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/dinal-dholiya/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:dinalben@buffalo.edu">
+  <a href="mailto:dinaldholiya@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.acsu.buffalo.edu/~dinalben/">
