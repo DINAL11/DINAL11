@@ -142,9 +142,9 @@
 ---
 
 ## 🌐 Let’s Connect!
-- 📧 **Email:** [dinalben@buffalo.edu](mailto:dinalben@buffalo.edu)  
+- 📧 **Email:** [dinaldholiya@gmail.com](mailto:dinalben@buffalo.edu)  
 - 💼 **LinkedIn:** [Dinal Dholiya](https://www.linkedin.com/in/dinal-dholiya/)  
-- 🌍 **Portfolio:** [acsu.buffalo.edu/~dinalben/](https://www.acsu.buffalo.edu/~dinalben/)  
+- 🌍 **Portfolio:** [dinal.site](https://dinal.site)  
 
 ---
 
