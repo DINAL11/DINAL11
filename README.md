@@ -7,7 +7,7 @@
   <a href="mailto:dinaldholiya@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.acsu.buffalo.edu/~dinalben/">
+  <a href="https://dinal.site/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF6F61?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>
 </p>
@@ -20,9 +20,9 @@
 ---
 
 ## 🌟 About Me
-- 🎓 **Computer Science Enthusiast** @ University at Buffalo  
-- 💻 Lover of **Data Analytics**, **Distributed Systems**, and **Full-Stack Magic**  
-- 🔍 Passionate about solving real-world problems with code and data  
+- 🎓 **Computer Science graduate** @ University at Buffalo  
+- 💻 Lover of **Web Development**, **Distributed Systems**, and **Full-Stack Magic**  
+- 🔍 Passionate about solving real-world problems with code, data and AI  
 - ⚡ Fun Fact: Former national **Roll Ball & Rugby** player turned tech geek! 🏉  
 
 ---
