@@ -23,7 +23,7 @@
 - 🎓 **Computer Science graduate** @ University at Buffalo  
 - 💻 Lover of **Web Development**, **Distributed Systems**, and **Full-Stack Magic**  
 - 🔍 Passionate about solving real-world problems with code, data and AI  
-- ⚡ Fun Fact: Former national **Roll Ball & Rugby** player turned tech geek! 🏉  
+
 
 ---
 
