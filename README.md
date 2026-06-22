@@ -21,7 +21,7 @@
 
 ## 🌟 About Me
 - 🎓 **Computer Science graduate** @ University at Buffalo  
-- 💻 Lover of **Web Development**, **Distributed Systems**, and **Full-Stack Magic**  
+- 💻 **Web Development**, **Distributed Systems**, and **Full-Stack Architecture**  
 - 🔍 Passionate about solving real-world problems with code, data and AI  
 
 
